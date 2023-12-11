@@ -1,0 +1,1 @@
+I created a game with a help of youtube tutorial, I'm spending a lot of time everyday to learn Python, and of cource because I'm new to coding, I can see my skill growing everyday. I'm currently learning from a 12-hour youtube cource and doing 1 small project everyday.
